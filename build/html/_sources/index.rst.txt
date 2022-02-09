@@ -13,6 +13,10 @@ Welcome to Sosconf Mirror Doc's documentation!
    debiancn
    manjaro
    termux
+   gnu
+   KaOS
+   kubernetes
+   slackwarearm
    About
 
 Indices and tables
